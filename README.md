@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tonedef30/Space%20Game%20Web%20Pipeline/_apis/build/status/tonedef30m.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tonedef30/Space%20Game%20Web%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
